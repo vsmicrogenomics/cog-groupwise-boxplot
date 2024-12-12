@@ -73,7 +73,7 @@ Sharma, V. (2024). groupwise_boxplot.py [Python script]. Retrieved from [https:/
 ---
 
 ## Acknowledgements
-This script utilizes COGclassifier output for extraction. Please acknowledge the use of COGclassifier by referring to the tool at [https://github.com/ncbi/amr](https://github.com/moshi4/COGclassifier]
+This script utilizes COGclassifier output. Please acknowledge the use of COGclassifier by referring to the tool at [https://github.com/ncbi/amr](https://github.com/moshi4/COGclassifier]
 
 
 
