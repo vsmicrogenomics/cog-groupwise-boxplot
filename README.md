@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ---
 
 ## Citation
-If you are using the `dynamic_significance_plotter.py` script, please cite it as follows:
+If you are using the `groupwise_boxplot.py` script, please cite it as follows:
 
 Sharma, V. (2024). groupwise_boxplot.py [Python script]. Retrieved from [https://github.com/vsmicrogenomics/cog-groupwise-boxplot]
 
